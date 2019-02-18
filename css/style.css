@@ -1,0 +1,27 @@
+body{
+    height: 80vh;
+}
+
+ul{
+    list-style-type: none;
+    margin: 2rem;
+}
+
+li:first-child{
+    float: left;
+}
+
+li{
+    float: right;
+    padding-right: 2rem;
+    margin-right: 1rem;
+}
+
+.border-div{
+    height: 12vh;
+    border: 1px solid black;
+}
+
+.home-div{
+    height: 86vh;
+}
