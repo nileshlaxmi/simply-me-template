@@ -17,11 +17,23 @@ li{
     margin-right: 1rem;
 }
 
-.border-div{
+.div-border{
     height: 12vh;
     border: 1px solid black;
 }
 
-.home-div{
-    height: 86vh;
+.div-home{
+    height: 85vh;
+}
+
+.div-about{
+    height: 38vh;
+    text-justify: inter-word;
+}
+
+.div-about h2{
+    text-align: center;
+}
+footer p{
+    text-align: center
 }
